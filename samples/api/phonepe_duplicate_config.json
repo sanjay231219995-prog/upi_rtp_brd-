@@ -1,0 +1,7 @@
+{
+  "code": "TXN_DUPLICATE",
+  "message": "Transaction ID already exists",
+  "txnId": "e7a1f234-56b7-890c-d123-4567a89bc012",
+  "status": "FAILED",
+  "errorCode": "DUPLICATE_TRANSACTION"
+}

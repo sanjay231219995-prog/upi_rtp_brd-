@@ -1,0 +1,7 @@
+{
+  "code": "LIMIT_EXCEEDED",
+  "message": "Transaction amount exceeds the limit of ₹200000",
+  "amount": 210000,
+  "limit": 200000,
+  "status": "FAILED"
+}

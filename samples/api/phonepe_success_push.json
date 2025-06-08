@@ -1,0 +1,9 @@
+{
+  "code": "SUCCESS",
+  "message": "UPI transaction initiated successfully",
+  "txnId": "e7a1f234-56b7-890c-d123-4567a89bc012",
+  "status": "INITIATED",
+  "amount": 500.00,
+  "currency": "INR",
+  "timestamp": "2025-08-07T16:15:30Z"
+}
